@@ -1,0 +1,45 @@
+{
+  "title": "Aquariuslt Home",
+  "description": "TL; DR",
+  "author": "Aquariuslt",
+  "avator": "https://img.aquariuslt.com/social/avator.png",
+  "theme": "#24292e",
+  "copyright": "2018 Aquariuslt",
+  "entries": {
+    "blog": {
+      "name": "Blog",
+      "url": "https://blog.aquariuslt.com"
+    },
+    "github": {
+      "name": "Github",
+      "url": "https://github.com/aquariuslt"
+    },
+    "zhihu": {
+      "name": "Zhihu",
+      "url": "https://www.zhihu.com/people/Aquariuslt"
+    },
+    "instagram": {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/supaquariuslt"
+    },
+    "twitter": {
+      "name": "Twitter",
+      "url": "https://twitter.com/superaquariuslt"
+    }
+  },
+  "features": {
+    "manifest": {
+      "enable": true,
+      "name": "Aquariuslt Home",
+      "short_name": "Home",
+      "description": "Aquariuslt Home",
+      "theme_color": "#24292e",
+      "developer": {
+        "name": "Aquariuslt",
+        "url": "https://github.com/aquariuslt"
+      }
+    },
+    "google_site_verification": "s3PYm0fCo0ImPqqXoPLiUb_bFdlYODKw54VGSkcFgyE"
+  },
+  "cname": "aquariuslt.com"
+}

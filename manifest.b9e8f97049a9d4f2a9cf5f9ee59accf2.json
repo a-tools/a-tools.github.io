@@ -1,0 +1,42 @@
+{
+  "icons": [
+    {
+      "src": "./icon_512x512.47af94aa3e23b6f1b89d3b830d98e288.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon_384x384.c90abb21db8b8578fbc6edbf04029590.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon_256x256.c43d8226a6b71e5e4451a819fd41eac0.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon_192x192.f315e27c09b85df3f335dc9c8c96845a.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon_128x128.b0ae35c0fe51ecba03af550201aa6f29.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon_96x96.1e0823f1d7609b4ebfb1ff664d228a5a.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Aquariuslt Home",
+  "short_name": "Home",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Aquariuslt Home",
+  "background_color": "#24292e",
+  "theme_color": "#24292e"
+}

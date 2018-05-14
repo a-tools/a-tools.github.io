@@ -1,0 +1,23 @@
+CACHE MANIFEST
+#ver:2018-5-14 04:15:23
+#plugin:4.9.0
+
+CACHE:
+./main.79205b4302505868e4bc.js
+./vendor.a3f09d392dfcffdafb54.js
+./main.79205b4302505868e4bc.css
+./assets/css/fonts.css
+./assets/fonts/material-icons.woff2
+./assets/fonts/roboto.woff
+./favicon.png
+./
+./manifest.b9e8f97049a9d4f2a9cf5f9ee59accf2.json
+./icon_512x512.47af94aa3e23b6f1b89d3b830d98e288.png
+./icon_384x384.c90abb21db8b8578fbc6edbf04029590.png
+./icon_256x256.c43d8226a6b71e5e4451a819fd41eac0.png
+./icon_192x192.f315e27c09b85df3f335dc9c8c96845a.png
+./icon_128x128.b0ae35c0fe51ecba03af550201aa6f29.png
+./icon_96x96.1e0823f1d7609b4ebfb1ff664d228a5a.png
+
+NETWORK:
+*
